@@ -66,16 +66,16 @@ function CalcTurning(selectedTurning) {
     const Chord = [
         "E"
         , "F"
-        , "Gb"
+        , "F#"
         , "G"
-        , "Ab"
+        , "G#"
         , "A"
-        , "Bb"
+        , "A#"
         , "B"
         , "C"
-        , "Db"
+        , "C#"
         , "D"
-        , "Eb"
+        , "D#"
     ];
     let row = [];
     for (const item in Stinrgs) {
