@@ -119,6 +119,5 @@ function DrawGrid() {
     let turning = document.getElementById("Turning").value;
     let gridData = CalcTurning(turning);
     grid.updateConfig({ data: gridData }).forceRender();
-    data: gridData
 }
 
